@@ -1,7 +1,7 @@
-Tokio
-París
+Berlín
 Londres
 Madrid
-Roma
-Berlín
+París
 Piña
+Roma
+Tokio

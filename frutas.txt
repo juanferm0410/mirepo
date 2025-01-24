@@ -1,5 +1,5 @@
 Banana
-Fresa
-Naranja
-Mango
 Durazno
+Fresa
+Mango
+Naranja
